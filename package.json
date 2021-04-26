@@ -1,0 +1,29 @@
+{
+  "name": "revision",
+  "version": "0.0.1",
+  "description": "revision for html and java script",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harpreet93/Revision-Lesson-1.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "java",
+    "bootstrap"
+  ],
+  "author": "harpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harpreet93/Revision-Lesson-1/issues"
+  },
+  "homepage": "https://github.com/Harpreet93/Revision-Lesson-1#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0"
+  }
+}
